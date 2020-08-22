@@ -1,0 +1,22 @@
+﻿  Assignment2.cpp
+C:\Users\zailinyuan\Desktop\Graphics\Assignment2\Assignment2\Shader.h(51,10): warning C4101: 'info_log': unreferenced local variable
+C:\Users\zailinyuan\Desktop\Graphics\Assignment2\Assignment2\Assignment2.cpp(586,15): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\zailinyuan\Desktop\Graphics\Assignment2\Assignment2\Assignment2.cpp(587,15): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\zailinyuan\Desktop\Graphics\Assignment2\Assignment2\Assignment2.cpp(626,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\zailinyuan\Desktop\Graphics\Assignment2\Assignment2\Assignment2.cpp(687,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 2924 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\zailinyuan\Desktop\Graphics\Assignment2\x64\Release\vc120.pdb'; linking object as if no debug info
+  Assignment2.vcxproj -> C:\Users\zailinyuan\Desktop\Graphics\Assignment2\x64\Release\Assignment2.exe
