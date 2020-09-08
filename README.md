@@ -6,6 +6,6 @@
 2. Camera.cpp
 3. DirectionLigit.cpp
 4. PointLight.cpp
-<br> You can paste these code in Visual Studio for setting up.
+<br> <b>You can paste these code in Visual Studio for setting up.</b>
 
 # Environment configuration are detailed in Instruction.pdf
