@@ -12,3 +12,7 @@
 
 # Environment configuration are detailed in Instruction.pdf
 * All configuration files parts can be found in OpenGL_configuration file
+
+
+# Some screen shots
+* 
