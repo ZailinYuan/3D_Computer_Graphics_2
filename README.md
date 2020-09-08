@@ -9,3 +9,4 @@
 <br> <b>You can paste these code in Visual Studio for setting up.</b>
 
 # Environment configuration are detailed in Instruction.pdf
+* All configuration files parts can be found in 
